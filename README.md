@@ -1,3 +1,3 @@
 # Smida 社区项目
 
-这是一个服务在韩华人的社区平台项目，由 feelhzy 发起。
+这是一个使用 Next.js 和 Tailwind CSS 构建的初始社区网站。
